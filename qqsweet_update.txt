@@ -1,0 +1,1 @@
+{"code":200,"data":{"update":1,"ver":"1.1.11","md5":"4983c0de71424bd2d03481eeee7d8287","md51":"9b01421b78f5dac4129728b0112b791e","apkname":"mm.apk","scriptname":"mm.lr","content":"1.May all go well with you!\n2.Debug version."}}
