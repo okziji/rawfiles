@@ -1,1 +1,1 @@
-{"code":200,"data":{"update":1,"ver":"1.1.11","md5":"4983c0de71424bd2d03481eeee7d8287","md51":"9b01421b78f5dac4129728b0112b791e","apkname":"mm.apk","scriptname":"mm.lr","content":"1.May all go well with you!\n2.Debug version."}}
+{"code":200,"data":{"update":1,"ver":"1.1.11","md5":"390732eec22a3114ea12567b6d9db175","md51":"1feb590a6dd37ff9597c2d6c41b0de33","apkname":"mm.apk","scriptname":"mm.lr","content":"1.May all go well with you!\n2.Debug version."}}
